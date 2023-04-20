@@ -2,8 +2,6 @@
 
 My name is Olga, and I'm glad to welcome you here!
 
-![image](https://user-images.githubusercontent.com/103707445/233431717-479f8408-c66e-48ae-978d-28571a271ea8.png)
-
 As a junior Flutter developer, I'm passionate about building elegant and functional mobile applications. This account showcases my skills and experience with Flutter, featuring projects that demonstrate my ability to create visually appealing and user-friendly apps. 
 
 I'm constantly learning and exploring new techniques to improve my craft, and I'm excited to collaborate with others on exciting new projects. Follow me on GitHub to stay updated on my latest work and to connect with me on my journey as a Flutter developer.
